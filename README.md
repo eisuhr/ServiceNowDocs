@@ -1,3 +1,5 @@
+> **Reference mirror.** Third-party ServiceNow documentation, forked for LLM use. eisuhr does not review or sync this content. Recorded as a reference mirror on 2026-11-25 ([eisuhr ADR, internal](https://github.com/eisuhr/the-library/blob/main/docs/directions/2026-11-25-adr-repository-consolidation-and-lifecycle.md)).
+
 # ServiceNowDocs
 
 ServiceNow AI Platform™ product documentation with the content format optimized for AI Agent consumption.
